@@ -1,11 +1,11 @@
 # Add a custom app to Fiori Launchpad
 
 As custom apps do not have a reference catalog from where we can reference the apps in our own catalogs to access ui5 app in SAP-Fiori-Launchpad, below configurations needs to be done:
-    1. Semantic Object
-    2. Launchpad Role
-    3. Business Catalog
-    4. Business Group
-    5. App’s PFCG Role
+1. Semantic Object
+2. Launchpad Role
+3. Business Catalog
+4. Business Group
+5. App’s PFCG Role
 
 ## Create Semantic Object
 
@@ -42,7 +42,7 @@ Copy and Paste the Icon link into the "Icon" field.
 ![Add an icon](pic5.png)
 
 ## Add your app to the Business Group
-Follow the instructions in the next tutorial to learn how to do that. Create Fiori catalogues and groups
+Follow the instructions in the next tutorial [Create Fiori catalogues and groups](../create-launchpad-catalogs/README.md) to learn how to do that. 
 
 
 
