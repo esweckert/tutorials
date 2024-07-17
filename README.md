@@ -9,3 +9,7 @@ I'm currently migrating all my previously created tutorials from Confluence to G
 - [Create Fiori catalogues and groups](create-launchpad-catalog/README.md)
 - [Unit Testing with SAPUI5](unit-testing-sapui5/README.md)
 
+## Tips & tricks :fire:
+
+:punch: tips & tricks to make your life easier
+- [Fiori Launchpad tile configuration for app extensions](hot/tile-configuration-app-extension.md)
