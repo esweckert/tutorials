@@ -6,8 +6,10 @@ I'm currently migrating all my previously created tutorials from Confluence to G
 ## Tutorials
 - [Setup Visual Studio Code for SAP Fiori Development](Setup-Vs-Code/README.md)
 - [Add a custom app to Fiori Launchpad](add-a-custom-app-to-launchpad/README.md)
+- [Add a standard app to Fiori Launchpad](add-a-standard-app-to-launchpad/README.md)
 - [Create Fiori catalogues and groups](create-launchpad-catalog/README.md)
 - [Unit Testing with SAPUI5](unit-testing-sapui5/README.md)
+
 
 ## Tips & tricks :fire:
 
