@@ -38,7 +38,7 @@ QUnit.config.autostart = false;
 sap.ui.getCore().attachInit(function () {
 "use strict";
 sap.ui.require([
-"com/media-saturn/crufileupload/test/unit/AllTests"
+"com/esweckert/crufileupload/test/unit/AllTests"
 ], function () {
 QUnit.start();
 });
